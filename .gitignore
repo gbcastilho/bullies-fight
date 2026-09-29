@@ -1,2 +1,5 @@
 # OpenCode Files
 .opencode
+
+# Node Residuals
+**/node_modules/*
